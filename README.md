@@ -1,6 +1,6 @@
 # remoji
 A minimal emoji picker for wiredWM/naviOS.
-<img width="1363" height="768" alt="image" src="https://github.com/user-attachments/assets/34efc1cf-56d5-4118-b50e-dacde4ca7719" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a6c577dc-be00-456e-abbe-fb288f17663d" />
 
 `remoji` is a small emoji picker baked into wiredWM and naviOS.
 
