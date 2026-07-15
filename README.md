@@ -4,7 +4,7 @@ A minimal emoji picker for wiredWM/naviOS.
 
 `remoji` is a small emoji picker baked into wiredWM and naviOS.
 
-Its usage is simple: simply press **Alt+Tab** to access your emoji picker.
+Its usage is simple: simply press **Alt+E** to access your emoji picker.
 
 Search for and pick out an emoji, and then select it. It is automatically copied to your clipboard and you can paste it anywhere.
 
